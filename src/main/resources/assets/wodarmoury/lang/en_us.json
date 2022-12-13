@@ -1,0 +1,10 @@
+{
+  "item.wodarmoury.boomshot": "Boom Shot",
+  "item.wodarmoury.bombblaster": "Bomb Blaster",
+  "item.wodarmoury.shellshot": "Shell Shot",
+
+  "item.wodarmoury.codgun": "Cod Gun",
+
+  "item.tooltip.boomshot": "Uses Shell Shots to send you flying. Be careful of the fall!",
+  "item.tooltip.bombblaster": "Fires twice before needing to cooldown."
+}
